@@ -138,7 +138,7 @@
                            My bio line 3
                         </p>
                         <p>
-                            Paris, France<br />
+                            Where I am from<br />
                             <a target="_blank" href="/cdn-cgi/l/email-protection#98eef1f6fbfdf6ecd8ffecf0fdf1f5f9fff1f6fdfdeaebb6fbf7f5"><!-- Comment to force prettier to keep line break -->
                                 <span class="__cf_email__" data-cfemail="2c5a45424f4942586c4b58444945414d4b454249495e5f024f4341">[email&#160;protected]</span> </a
                             ><br />
@@ -150,7 +150,7 @@
             <section id="first">
                 <header class="section-header">
                     <span class="number">01</span>
-                    <span class="title">Manifesto</span>
+                    <span class="title">Current Projects</span>
                 </header>
                 <div class="container">
                     <div class="animation">
@@ -288,7 +288,7 @@
             <section id="third">
                 <header class="section-header">
                     <span class="number">03</span>
-                    <span class="title">Expertise</span>
+                    <span class="title">Biomaterial 3D Printer</span>
                 </header>
                 <div class="container">
                     <div class="animation">
@@ -347,7 +347,7 @@
             <section id="fourth">
                 <header class="section-header">
                     <span class="number">04</span>
-                    <span class="title">Experience</span>
+                    <span class="title">Microbe Powered Solar Panel</span>
                 </header>
                 <div class="container">
                     <div class="animation">
@@ -388,7 +388,7 @@
             <section id="fifth">
                 <header class="section-header">
                     <span class="number">05</span>
-                    <span class="title">Contact</span>
+                    <span class="title">Contact Info</span>
                 </header>
                 <div class="container">
                     <div class="animation">
