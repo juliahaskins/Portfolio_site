@@ -140,9 +140,9 @@
                         <p>
                             Where I am from<br />
                             <a target="_blank" href="/cdn-cgi/l/email-protection#98eef1f6fbfdf6ecd8ffecf0fdf1f5f9fff1f6fdfdeaebb6fbf7f5"><!-- Comment to force prettier to keep line break -->
-                                <span class="__cf_email__" data-cfemail="2c5a45424f4942586c4b58444945414d4b454249495e5f024f4341">[email&#160;protected]</span> </a
+                                <span class="__cf_email__" data-cfemail="2c5a45424f4942586c4b58444945414d4b454249495e5f024f4341">[acinonyx.ju@gmail.com]</span> </a
                             ><br />
-                            &copy; 2020
+                            Created spring 2022
                         </p>
                     </div>
                 </div>
