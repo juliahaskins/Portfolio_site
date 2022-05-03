@@ -407,7 +407,7 @@
                         </div>
                         <div class="email">
                             <a href="/cdn-cgi/l/email-protection#b1c7d8dfd2d4dfc5f1d6c5d9d4d8dcd0d6d8dfd4d4c3c29fd2dedc"><!-- Comment to force prettier to keep line break -->
-                                <span class="__cf_email__" data-cfemail="bbcdd2d5d8ded5cffbdccfd3ded2d6dadcd2d5dedec9c895d8d4d6">[email&#160;protected]</span>
+                                <span class="__cf_email__" data-cfemail="bbcdd2d5d8ded5cffbdccfd3ded2d6dadcd2d5dedec9c895d8d4d6">[acinonyx.ju@gmail.com]</span>
                             </a>
                         </div>
                         <div class="links">
