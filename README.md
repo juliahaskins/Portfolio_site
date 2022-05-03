@@ -29,7 +29,7 @@
         <link href="assets/css/global.css?35ab2dd" rel="stylesheet" />
         <link href="assets/css/typography.css?35ab2dd" rel="stylesheet" />
         <link href="assets/css/mobile.css?35ab2dd" rel="stylesheet" />
-        <link href="https://github.com/juliahaskins/Portfolio_site/blob/main/assets/css/desktop.css" rel="stylesheet" />
+        <link href="link to desktop css" rel="stylesheet" />
     </head>
 
     <body>
@@ -433,6 +433,6 @@
             </p>
         </footer>
 
-        <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="module" src="assets/js/Main.js"></script>
+        <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="module" src="https://github.com/juliahaskins/Portfolio_site/blob/main/assets/js/Main.js"></script>
     </body>
 </html>
