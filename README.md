@@ -218,7 +218,7 @@
             <section id="second">
                 <header class="section-header">
                     <span class="number">02</span>
-                    <span class="title">Vision</span>
+                    <span class="title">Mycelium Bricks</span>
                 </header>
                 <div class="container">
                     <div class="animation">
