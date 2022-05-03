@@ -133,9 +133,9 @@
                     </div>
                     <div class="details">
                         <p>
-                            My bio line 1 <br />
-                            My bio line 2 <br />
-                           My bio line 3
+                            I am a Washington, DC native who seeks to combine biomaterials, <br />
+                            self assembly, and design to create innovative sustainable <br />
+                           solutions for the world's most difficult problems. 
                         </p>
                         <p>
                             Where I am from<br />
