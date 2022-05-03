@@ -10,22 +10,9 @@
 
         <!-- Primary Meta Tags -->
         <title>Julias Portfolio</title>
-        <meta name="title" content="G!theimagineers" />
+        <meta name="title" content="Julia Haskins Portfolio" />
         <meta name="description" content="G!theimagineers is a hybrid creative, agile, daring, sassy production studio that embraces architecture, scenography, light, image, sound and all the techniques of the performing arts." />
 
-        <!-- Open Graph / Facebook -->
-        <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.gtheimagineers.com/" />
-        <meta property="og:title" content="G!theimagineers" />
-        <meta property="og:description" content="G!theimagineers is a hybrid creative, agile, daring, sassy production studio that embraces architecture, scenography, light, image, sound and all the techniques of the performing arts." />
-        <meta property="og:image" content="https://www.gtheimagineers.com/assets/images/share/share.png" />
-
-        <!-- Twitter -->
-        <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://www.gtheimagineers.com/" />
-        <meta property="twitter:title" content="G!theimagineers" />
-        <meta property="twitter:description" content="G!theimagineers is a hybrid creative, agile, daring, sassy production studio that embraces architecture, scenography, light, image, sound and all the techniques of the performing arts." />
-        <meta property="twitter:image" content="https://www.gtheimagineers.com/assets/images/share/share.png" />
 
         <!-- Favicons / Theme -->
         <link rel="apple-touch-icon" sizes="180x180" href="assets/images/favicon/apple-touch-icon.png" />
@@ -42,7 +29,7 @@
         <link href="assets/css/global.css?35ab2dd" rel="stylesheet" />
         <link href="assets/css/typography.css?35ab2dd" rel="stylesheet" />
         <link href="assets/css/mobile.css?35ab2dd" rel="stylesheet" />
-        <link href="assets/css/desktop.css?35ab2dd" rel="stylesheet" />
+        <link href="https://github.com/juliahaskins/Portfolio_site/blob/main/assets/css/desktop.css" rel="stylesheet" />
     </head>
 
     <body>
@@ -138,11 +125,11 @@
                            solutions for the world's most difficult problems. 
                         </p>
                         <p>
-                            Where I am from<br />
+                            Contact me:<br />
                             <a target="_blank" href="/cdn-cgi/l/email-protection#98eef1f6fbfdf6ecd8ffecf0fdf1f5f9fff1f6fdfdeaebb6fbf7f5"><!-- Comment to force prettier to keep line break -->
                                 <span class="__cf_email__" data-cfemail="2c5a45424f4942586c4b58444945414d4b454249495e5f024f4341">[acinonyx.ju@gmail.com]</span> </a
                             ><br />
-                            Created spring 2022
+                            LinkedIn
                         </p>
                     </div>
                 </div>
