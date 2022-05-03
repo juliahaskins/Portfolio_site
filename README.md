@@ -447,7 +447,7 @@
                 <a target="_blank" href="/cdn-cgi/l/email-protection#65130c0b06000b112502110d000c0804020c0b000017164b060a08"><!-- Comment to force prettier to keep line break -->
                     <span class="__cf_email__" data-cfemail="d9afb0b7babcb7ad99beadb1bcb0b4b8beb0b7bcbcabaaf7bab6b4">[email&#160;protected]</span> </a
                 ><br />
-                &copy; 2020
+                Created spring 2022
             </p>
         </footer>
 
