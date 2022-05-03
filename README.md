@@ -420,30 +420,25 @@
         </main>
 
         <nav>
-            <button><span class="number">01</span><span class="title">Manifesto</span></button>
+            <button><span class="number">01</span><span class="title">Current Projects</span></button>
             <button>
-                <span class="number">02</span><span class="title">Vision</span>
+                <span class="number">02</span><span class="title">Mycelium Bricks</span>
             </button>
-            <button><span class="number">03</span><span class="title">Expertise</span></button>
+            <button><span class="number">03</span><span class="title">Biomaterial 3D Printer</span></button>
             <button>
-                <span class="number">04</span><span class="title">Experience</span>
+                <span class="number">04</span><span class="title">Microbe Powered Solar Panel</span>
             </button>
             <button><span class="number">05</span><span class="title">Contact</span></button>
         </nav>
 
-        <div class="language-toggle">
-            <a  data-lang="fr" href="fr.html">FR</a>
-            <a class="is-active" data-lang="en" href="en.html">EN</a>
-        </div>
-
         <footer>
             <p>
-                / Event / Retail / Entertainment<br />
-                / Scenography / Set Design<br />
-                / Technical Production
+                / Contact t<br />
+                / <br />
+                /
             </p>
             <p>
-                Paris, France<br />
+                Brooklyn, New York, USA<br />
                 <a target="_blank" href="/cdn-cgi/l/email-protection#65130c0b06000b112502110d000c0804020c0b000017164b060a08"><!-- Comment to force prettier to keep line break -->
                     <span class="__cf_email__" data-cfemail="d9afb0b7babcb7ad99beadb1bcb0b4b8beb0b7bcbcabaaf7bab6b4">[email&#160;protected]</span> </a
                 ><br />
