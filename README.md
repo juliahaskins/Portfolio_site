@@ -1,7 +1,7 @@
     <!-- Primary Meta Tags -->
     <title>Julias Portfolio</title>
-    <meta name="title" content="G!theimagineers" />
-    <meta name="description" content="G!theimagineers is a hybrid creative, agile, daring, sassy production studio that embraces architecture, scenography, light, image, sound and all the techniques of the performing arts." />
+    <meta name="title" content="Title" />
+    <meta name="description" content="Tagline." />
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website" />
