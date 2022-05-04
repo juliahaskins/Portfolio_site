@@ -27,7 +27,7 @@
 
         <!-- Styles -->
         <link href="assets/css/global.css?35ab2dd" rel="stylesheet" />
-        <link href="https://github.com/juliahaskins/Portfolio_site/blob/main/assets/css/typography.css" rel="stylesheet" />
+        <link href="typography link" rel="stylesheet" />
         <link href="assets/css/mobile.css?35ab2dd" rel="stylesheet" />
         <link href="link to desktop css" rel="stylesheet" />
     </head>
