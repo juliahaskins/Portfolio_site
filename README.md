@@ -11,7 +11,7 @@
         <!-- Primary Meta Tags -->
         <title>Julias Portfolio</title>
         <meta name="title" content="Julia Haskins Portfolio" />
-        <meta name="description" content="G!theimagineers is a hybrid creative, agile, daring, sassy production studio that embraces architecture, scenography, light, image, sound and all the techniques of the performing arts." />
+        <meta name="description" content="Tagline." />
 
 
         <!-- Favicons / Theme -->
@@ -27,7 +27,7 @@
 
         <!-- Styles -->
         <link href="assets/css/global.css?35ab2dd" rel="stylesheet" />
-        <link href="assets/css/typography.css?35ab2dd" rel="stylesheet" />
+        <link href="https://github.com/juliahaskins/Portfolio_site/blob/main/assets/css/typography.css" rel="stylesheet" />
         <link href="assets/css/mobile.css?35ab2dd" rel="stylesheet" />
         <link href="link to desktop css" rel="stylesheet" />
     </head>
